@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-<img src="[https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/JavaScript.png](https://example.com/banner-image](https://i.ibb.co/qMCNjdv/1714719137467.jpg)" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"><img src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/HTML.png" style="max-width: 100%;"></a>
 
 ### About Me
 I am a skilled MERN stack developer with experience in building dynamic and responsive web applications. Passionate about coding, learning new technologies, and solving real-world problems through innovative solutions.
