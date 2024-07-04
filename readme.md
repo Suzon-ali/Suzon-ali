@@ -41,15 +41,7 @@ I am a skilled MERN stack developer with experience in building dynamic and resp
 <a href="https://expressjs.com/" rel="nofollow">
   <img height="50" src="https://i.ibb.co/ypvJFZ5/express.png" style="max-width: 100%;">
 </a>
-<a href="https://www.postgresql.org/" rel="nofollow">
-  <img height="50" src="https://i.ibb.co/SwJrRCZ/firebase.png" style="max-width: 100%;">
-</a>
-<a href="https://www.docker.com/" rel="nofollow">
-  <img height="50" src="https://i.ibb.co/b5ShZBF/HTML.png" style="max-width: 100%;">
-</a>
-<a href="https://graphql.org/" rel="nofollow">
-  <img height="50" src="https://i.ibb.co/ypvJFZ5/express.png" style="max-width: 100%;">
-</a>
+
 <a href="https://github.com/" rel="nofollow">
   <img height="50" src="https://i.ibb.co/HrqZg5h/redux.png" style="max-width: 100%;">
 </a>
