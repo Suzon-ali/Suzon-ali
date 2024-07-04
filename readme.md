@@ -1,54 +1,60 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><a href="https://www.facebook.com/mirhussainmurtaza/" rel="nofollow">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" style="max-width: 100%;">
+# Welcome to My GitHub Profile!
+
+![Profile Banner]([https://example.com/banner-image](https://i.ibb.co/qMCNjdv/1714719137467.jpg))
+
+### About Me
+I am a skilled MERN stack developer with experience in building dynamic and responsive web applications. Passionate about coding, learning new technologies, and solving real-world problems through innovative solutions.
+
+### GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?Suzon-ali=yourusername&show_icons=true&theme=radical)
+
+## 💻 Technologies that I know
+
+<a href="https://nextjs.org/" rel="nofollow">
+  <img height="50" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/nextjs.png" style="max-width: 100%;">
 </a>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📈 Current Stats</h2><a id="user-content-chart_with_upwards_trend-current-stats" class="anchor" aria-label="Permalink: :chart_with_upwards_trend: Current Stats" href="#chart_with_upwards_trend-current-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<br>
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/29ef521ecabc221516e52f973be6ce6dfa4e9f9444b7c201941eb9825de498b5/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d6d69722d6875737361696e267468656d653d726561637426686964655f626f726465723d74727565266261636b67726f756e643d304431313137267374726f6b653d30443131313726666972653d46463143463726736964654c6162656c733d303046304646266375727253747265616b4e756d3d4646314346372672696e673d464631434637266375727253747265616b4c6162656c3d46463143463726736964654e756d733d303046304646"><img width="60%" src="https://camo.githubusercontent.com/29ef521ecabc221516e52f973be6ce6dfa4e9f9444b7c201941eb9825de498b5/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d6d69722d6875737361696e267468656d653d726561637426686964655f626f726465723d74727565266261636b67726f756e643d304431313137267374726f6b653d30443131313726666972653d46463143463726736964654c6162656c733d303046304646266375727253747265616b4e756d3d4646314346372672696e673d464631434637266375727253747265616b4c6162656c3d46463143463726736964654e756d733d303046304646" data-canonical-src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&amp;theme=react&amp;hide_border=true&amp;background=0D1117&amp;stroke=0D1117&amp;fire=FF1CF7&amp;sideLabels=00F0FF&amp;currStreakNum=FF1CF7&amp;ring=FF1CF7&amp;currStreakLabel=FF1CF7&amp;sideNums=00F0FF" style="max-width: 100%;"></a>
-</p>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📫 Reach me out</h2><a id="user-content-mailbox-reach-me-out" class="anchor" aria-label="Permalink: :mailbox: Reach me out" href="#mailbox-reach-me-out"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<br>
-<p dir="auto"><a href="https://www.linkedin.com/in/mirhussainmurtaza/" rel="nofollow"></a></p><p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"><img height="75" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/Linkedin.png" style="max-width: 100%;"></a><a href="https://www.facebook.com/mirhussainmurtaza" rel="nofollow"><img height="75" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/Facebook.png" style="max-width: 100%;"></a><a href="https://twitter.com/_mir_hussain_" rel="nofollow"><img height="75" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/Twitter.png" style="max-width: 100%;"> </a></p><p dir="auto"></p>
-<br>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">💻 Technologies that I know</h2><a id="user-content-computer-technologies-that-i-know" class="anchor" aria-label="Permalink: :computer: Technologies that I know" href="#computer-technologies-that-i-know"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<br>
-<p align="center" dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"><img src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/HTML.png" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"><img src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/css.png" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"><img src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/JavaScript.png" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"><img src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/python.png" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"><img src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/c.png" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"><img src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/cpp.png" style="max-width: 100%;"></a>
-</p>
-<p align="center" dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"><img src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/react.png" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"><img src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/redux.png" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"><img src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/sass.png" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"><img src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/tailwind.png" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"><img src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/Bootsrap.png" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"><img src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/firebase.png" style="max-width: 100%;"></a>
-</p>
-<p align="center" dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"><img src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/node.png" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"><img src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/express.png" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"><img src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/mongo.png" style="max-width: 100%;"></a>
-</p><br>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">👀 Current overview</h2><a id="user-content-eyes-current-overview" class="anchor" aria-label="Permalink: :eyes: Current overview" href="#eyes-current-overview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<div align="left" dir="auto">
-<a href="https://app.daily.dev/mir" rel="nofollow"><img align="right" src="https://github.com/mir-hussain/mir-hussain/raw/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card" style="max-width: 100%;"></a>
-</div>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">🔭 I’m working - In Programming Hero.</h3><a id="user-content--im-working---in-programming-hero" class="anchor" aria-label="Permalink: 🔭 I’m working - In Programming Hero." href="#-im-working---in-programming-hero"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">🌱 I’m exploring - Advance motion graphics for web.</h3><a id="user-content--im-exploring---advance-motion-graphics-for-web" class="anchor" aria-label="Permalink: 🌱 I’m exploring - Advance motion graphics for web." href="#-im-exploring---advance-motion-graphics-for-web"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">👯 I’m looking - To collaborate on open source projects.</h3><a id="user-content--im-looking---to-collaborate-on-open-source-projects" class="anchor" aria-label="Permalink: 👯 I’m looking - To collaborate on open source projects." href="#-im-looking---to-collaborate-on-open-source-projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">🤔 I’m trying - To help people learn web development.</h3><a id="user-content--im-trying---to-help-people-learn-web-development" class="anchor" aria-label="Permalink: 🤔 I’m trying - To help people learn web development." href="#-im-trying---to-help-people-learn-web-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">⚡ Fun fact - I love to make complex origami and I can speak 5 languages.</h3><a id="user-content--fun-fact---i-love-to-make-complex-origami-and-i-can-speak-5-languages" class="anchor" aria-label="Permalink: ⚡ Fun fact - I love to make complex origami and I can speak 5 languages." href="#-fun-fact---i-love-to-make-complex-origami-and-i-can-speak-5-languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<br>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📖 My recent blog posts</h2><a id="user-content-book-my-recent-blog-posts" class="anchor" aria-label="Permalink: :book: My recent blog posts" href="#book-my-recent-blog-posts"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+  <img height="50" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/javascript.png" style="max-width: 100%;">
+</a>
+<a href="https://www.typescriptlang.org/" rel="nofollow">
+  <img height="50" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/typescript.png" style="max-width: 100%;">
+</a>
+<a href="https://nodejs.org/en/" rel="nofollow">
+  <img height="50" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/nodejs.png" style="max-width: 100%;">
+</a>
+<a href="https://reactjs.org/" rel="nofollow">
+  <img height="50" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/react.png" style="max-width: 100%;">
+</a>
+<a href="https://tailwindcss.com/" rel="nofollow">
+  <img height="50" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/tailwind.png" style="max-width: 100%;">
+</a>
+<a href="https://redux.js.org/" rel="nofollow">
+  <img height="50" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/redux.png" style="max-width: 100%;">
+</a>
+<a href="https://www.mongodb.com/" rel="nofollow">
+  <img height="50" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/mongodb.png" style="max-width: 100%;">
+</a>
+<a href="https://expressjs.com/" rel="nofollow">
+  <img height="50" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/express.png" style="max-width: 100%;">
+</a>
+<a href="https://www.postgresql.org/" rel="nofollow">
+  <img height="50" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/postgresql.png" style="max-width: 100%;">
+</a>
+<a href="https://www.docker.com/" rel="nofollow">
+  <img height="50" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/docker.png" style="max-width: 100%;">
+</a>
+<a href="https://graphql.org/" rel="nofollow">
+  <img height="50" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/graphql.png" style="max-width: 100%;">
+</a>
+<a href="https://git-scm.com/" rel="nofollow">
+  <img height="50" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/git.png" style="max-width: 100%;">
+</a>
+<a href="https://github.com/" rel="nofollow">
+  <img height="50" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/github.png" style="max-width: 100%;">
+</a>
 
-<ul dir="auto">
-<li><a href="https://dev.to/mirhussain/common-interview-questions-that-you-need-to-know-as-a-junior-javascript-developer-29a6" rel="nofollow">Common interview questions that you need to know as a junior JavaScript developer.</a></li>
-<li><a href="https://dev.to/mirhussain/what-the-heck-is-jsx-in-react-3f0a" rel="nofollow">What the heck is JSX in React.</a></li>
-<li><a href="https://dev.to/mirhussain/a-cleaner-approach-to-write-javascript-bonus-tips-in-the-end-58ng" rel="nofollow">A cleaner approach to write JavaScript (Bonus tips in the end.)</a></li>
-</ul>
 
-</article>
+### Pinned Repositories
+- [Project 1](https://github.com/yourusername/project1)
+- [Project 2](https://github.com/yourusername/project2)
+- [Project 3](https://github.com/yourusername/project3)
