@@ -53,8 +53,10 @@ I am a skilled MERN stack developer with experience in building dynamic and resp
   <img height="50" src="https://i.ibb.co/ypvJFZ5/express.png" style="max-width: 100%;">
 </a>
 <a href="https://github.com/" rel="nofollow">
-  <img height="50" src="https://i.ibb.co/HrqZg5h/redux.png" styled
+  <img height="50" src="https://i.ibb.co/HrqZg5h/redux.png" style="max-width: 100%;">
+</a>
 
+</br>
 
 ### Pinned Repositories
 - [Project 1](https://github.com/yourusername/project1)
