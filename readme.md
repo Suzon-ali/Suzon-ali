@@ -1,4 +1,3 @@
-# Welcome to My GitHub Profile!
 
 <a target="_blank" rel="noopener noreferrer" href="https://i.ibb.co/qMCNjdv/1714719137467.jpg"><img src="https://i.ibb.co/qMCNjdv/1714719137467.jpg" style="max-width: 100%;"></a>
 
