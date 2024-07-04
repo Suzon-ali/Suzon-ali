@@ -31,6 +31,9 @@ I am a skilled MERN stack developer with experience in building dynamic and resp
 <a href="https://tailwindcss.com/" rel="nofollow">
   <img height="50" src="https://i.ibb.co/M8MKStF/tailwind.png" style="max-width: 100%;">
 </a>
+
+</br>
+
 <a href="https://redux.js.org/" rel="nofollow">
   <img height="50" src="https://i.ibb.co/HrqZg5h/redux.png" style="max-width: 100%;">
 </a>
